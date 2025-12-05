@@ -1,4 +1,4 @@
-# Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hamid Karimi
+# Hi there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hamid Karimi
 
 ### 🚀 Full-Stack Web & Mobile App Developer | Building Modern, High-Quality Applications and Platforms
 
