@@ -1,4 +1,4 @@
-# Hi there👋, I'm Hamid Karimi
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamid Karimi
 
 ### 🚀 Full-Stack Web & Mobile App Developer | Building Modern, High-Quality Applications and Platforms
 
@@ -11,7 +11,7 @@ I love experimenting with UI/UX, animations, reusable components, and creating o
 ## 💻 Tech Stack
 
 * **Languages:** JavaScript, TypeScript
-* **Frontend:** React, NextJS, Tailwind CSS, Tailwind CSS, Bootstrap,
+* **Frontend:** React, Next.js, Tailwind CSS, Bootstrap,
 * **Mobile:** React Native, Expo
 * **Backend & Database:** Express.jS, Node.js, MongoDB, MySQL, 
 * **Tools:** Git, GitHub, Android Studio, VS Code
