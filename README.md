@@ -1,27 +1,25 @@
 # Hi there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hamid Karimi
 
-### 🚀 Full-Stack Web & Mobile App Developer | Building Modern, High-Quality Applications and Platforms
-
-I'm a passionate Full-Stack Web & Mobile App Developer focused on building clean, modern, and high‑performance web and mobile applications.
-
-I love experimenting with UI/UX, animations, reusable components, and creating open‑source tools for the community.
+### Full-Stack Web & Mobile App Developer | Building Modern, High-Quality Applications and Platforms
 
 ---
 
 ## 💻 Tech Stack
 
 * **Languages:** JavaScript, TypeScript
-* **Frontend:** React, Next.js, Tailwind CSS, Bootstrap,
+* **Frontend:** React + Tailwind CSS
 * **Mobile:** React Native, Expo
-* **Backend & Database:** Express.jS, Node.js, MongoDB, PostgreSQL, 
+* **Backend & Database:** Express.jS, MongoDB, PostgreSQL, Redis, 
 * **UI Libraries:** React Native Reanimated, React Navigation, Tailwind (NativeWind)
 
 ---
 
 ## 📌 Pinned Projects
 
-Here are some of my highlighted repositories:
-
+* 🔧 **Yummy** – Modern full-stack food service platform
+* 🔧 **Vidiflow Backend** – real-time video downloader backend
+* 🔧 **SchoolOS Backend** – production-ready backend system designed for schools
+* 🔧 **Authforge-express** – open-source authentication backend
 * 🔧 **react-native-draggable-list** – React Native draggable + sortable list UI
 * 📝 **React-Native-App** – my firs React Native project
 * 🎨 **react-native-backend** – One of my Backend project where i used the server side technologies
@@ -48,7 +46,7 @@ Here are some of my highlighted repositories:
 ## 🔥 What I'm Working On
 
 * Building advanced reusable Full-Stack web and mobile app projects
-* Improving TypeScript skills
+* Learning new skills
 * Working on more open-source mini-libraries
 
 ---
