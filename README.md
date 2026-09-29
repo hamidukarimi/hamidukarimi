@@ -13,9 +13,7 @@ I love experimenting with UI/UX, animations, reusable components, and creating o
 * **Languages:** JavaScript, TypeScript
 * **Frontend:** React, Next.js, Tailwind CSS, Bootstrap,
 * **Mobile:** React Native, Expo
-* **Backend & Database:** Express.jS, Node.js, MongoDB, MySQL, 
-* **Tools:** Git, GitHub, Android Studio, VS Code
-* **UI/UX Design:** Figma
+* **Backend & Database:** Express.jS, Node.js, MongoDB, PostgreSQL, 
 * **UI Libraries:** React Native Reanimated, React Navigation, Tailwind (NativeWind)
 
 ---
