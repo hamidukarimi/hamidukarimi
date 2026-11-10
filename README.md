@@ -1,4 +1,4 @@
-# I'm Hamid Karimi
+# I'm Hamid Karimi based in the Netherlands 🇳🇱
 
 ### Full-Stack Web & Mobile App Developer | Building Modern, High-Quality Applications and Platforms
 
@@ -36,10 +36,9 @@
 
 ## 📫 Contact Me
 
-* **GitHub:** [https://github.com/hamidukarimi]
+* **WhatsApp:** [https://wa.me/31684688894]
+* * **Gmail:** [hameedukarimi@gmail.com]
 * **Linkedin:** [https://www.linkedin.com/in/hamid-karimi-0479a72b2/]
-* **Discord:** [https://discord.com/users/1406647862212694076]
-* **Gmail:** [hameedukarimi@gmail.com]
 
 ---
 
